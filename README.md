@@ -2,4 +2,4 @@
 
 ### This project just UI for simple task app
 
-![image](docs/ss.png)
+![image](docs/ss1.png)
